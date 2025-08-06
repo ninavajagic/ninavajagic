@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nina Vajagić</h1>
+<h4 align="left">Fourth-year student of Applied Software Engineering at the Faculty of Technical Sciences, University of Novi Sad.</h4>
+
 
 <!--
 **ninavajagic/ninavajagic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
